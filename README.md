@@ -1,4 +1,5 @@
 
+
 # 🚀 API Monitoring Dashboard 📊
 
 This project provides a monitoring dashboard for APIs. It allows you to track and visualize the performance of your APIs, providing insights into their response times and uptime.
@@ -77,7 +78,7 @@ This project is open-source and available under the MIT License.
 ---
 
 
-
+![Screenshot 2025-04-26 185505](https://github.com/user-attachments/assets/7112345f-65b1-4af6-8109-0b445e712e74)
 ![Screenshot 2025-04-28 100944](https://github.com/user-attachments/assets/e902df79-4681-4636-9715-ebc05b9c40bd)
 ![Screenshot 2025-04-27 115752](https://github.com/user-attachments/assets/49e0aece-fa87-4a0d-ba00-3975fa09b36e)
 ![Screenshot 2025-04-27 115738](https://github.com/user-attachments/assets/006dd3dd-f260-4503-b6cb-90af8b14d25a)
